@@ -1,2 +1,1 @@
-# bc-class-July2019
-updated
+This repo is for class activities in the UPENN Boot Camp.
